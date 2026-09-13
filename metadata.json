@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid QML Pancreatic Cancer Platform",
+  "description": "A hybrid quantum-classical machine learning platform for early pancreatic cancer detection using urinary biomarkers, PennyLane 4-qubit quantum simulator, classical benchmarks, and Gemini clinical decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
